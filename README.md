@@ -1,3 +1,11 @@
+upload repozitorija
+1. napravi novi repo
+2. git remote add origin https://toni14nexe:<lozinka>*@github.com/toni14nexe/react-restaurantWeb.git - dodati lozinku u link
+3. git push https://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@github.com/toni14nexe/react-restaurantWeb.git - prvi dio linka je token
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
