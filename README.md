@@ -3,6 +3,7 @@ upload repozitorija
 2. git remote add origin https://toni14nexe:<lozinka>*@github.com/toni14nexe/react-restaurantWeb.git - dodati lozinku u link
 3. git push https://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@github.com/toni14nexe/react-restaurantWeb.git - prvi dio linka je token
 
+ili za problem sa git push origin master (samo ubaciti token i repo name umjesto <___> ):  git push https://<token>@github.com/toni14nexe/<repo_nmae>.git
 
 
 
